@@ -716,15 +716,26 @@ Then run the [direnv](https://direnv.net/) command
  direnv allow .
 ```
 
-Fianlly, the generate markdown from a twitter url
+Finally, the generate markdown from a twitter url
 
 ```sh
 npx tweet-to-markdown https://twitter.com/mattpocockuk/status/1509964736275927042\?s\=20\&t\=sA-g5MNM5TPjN6Ozs1qxgA
 ```
 
-## TODO:
+## Credits
 
-- [ ] Add credit to the documentation of [type-fest](https://github.com/sindresorhus/type-fest)
+This project is made by community and especially the wonderful people and projects listed in this document
+
+### Open Source
+
+- [type-fest](https://github.com/sindresorhus/type-fest): for 2 sections (Extending existing type, Built-in types)
+
+### Tech Twitter
+
+- [Matt Pocock ✈️ Modern Frontends](https://twitter.com/mattpocockuk)
+- [Carlos Caballero](https://twitter.com/Carlillo)
+- [Minko Gechev (@mgechev@mstdn.social)](https://twitter.com/mgechev)
+
 
 ## Author
 
