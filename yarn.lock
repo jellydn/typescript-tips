@@ -14,7 +14,7 @@
   dependencies:
     normalize-path "^3.0.0"
 
-"@11ty/eleventy@^1.0.2":
+"@11ty/eleventy@1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@11ty/eleventy/-/eleventy-1.0.2.tgz#e8dace170a2dd377fb40465b337bb5f0d17ce6bd"
   integrity sha512-03ER4zukR6BgwppI5DHRE11lc+8B0fWsBrqacVWo3o49QkdEFXnEWjhyI9qd9LrPlgQHK2/MYyxuOvNwecyCLQ==
