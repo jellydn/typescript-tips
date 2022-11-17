@@ -18,6 +18,7 @@
 - [Normal union, a discriminated union, and a type predicate](mattpocockuk%20-%201592130978234900484.md)
 - [Inversion of control](mattpocockuk%20-%201591047557702389760.md)
 - [Ultimate TypeScript Thread](mattpocockuk%20-%201509964736275927042.md)
+- [TypeScript Tips Series](https://www.totaltypescript.com/tips)
 
 ## Carlos Caballero
 
