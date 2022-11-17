@@ -1,14 +1,31 @@
 # Typescript Tips [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Typsecript tips;
+> A curated list of awesome 🔥 TypeScript Tips 🔥
 
 ## Contents
 
 - [Tips](#Tips)
+  - [Matt Pocock](#matt-pocock)
+  - [Carlos Caballero](#carlos-caballero)
+  - [Minko Gechev](#minko-gechev)
   - [Extending existing types](#extending-existing-types)
   - [Built-in types](#built-in-types)
 
 ## Tips
+
+### Matt Pocock
+
+- [Normal union, a discriminated union, and a type predicate](mattpocockuk%20-%201592130978234900484.md)
+- [Inversion of control](mattpocockuk%20-%201591047557702389760.md)
+- [Ultimate TypeScript Thread](mattpocockuk%20-%201509964736275927042.md)
+
+## Carlos Caballero
+
+- [Use look up tables instead of "if"](Carlillo%20-%201591148366070747347.md)
+
+### Minko Gechev
+
+- [Use `as const` after literals](mgechev%20-%201462654597059817481.md)
 
 ### Extending existing types
 
@@ -683,3 +700,46 @@ You can find some examples in the
 
 Contributions welcome! Read the [contribution guidelines](contributing.md)
 first.
+
+## How to generate twitter to markdown file
+
+Create .envrc and fill the value then Use [tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown)
+
+```sh
+# .envrc
+export TTM_API_KEY=
+```
+
+Then run the [direnv](https://direnv.net/) command
+
+```sh
+ direnv allow .
+```
+
+Fianlly, the generate markdown from a twitter url
+
+```sh
+npx tweet-to-markdown https://twitter.com/mattpocockuk/status/1509964736275927042\?s\=20\&t\=sA-g5MNM5TPjN6Ozs1qxgA
+```
+
+## TODO:
+
+- [ ] Add credit to the documentation of [type-fest](https://github.com/sindresorhus/type-fest)
+
+## Author
+
+👤 **Huynh Duc Dung**
+
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
+
+## Stargazers
+
+[![Stargazers repo roster for @jellydn/typescript-tips](https://reporoster.com/stars/jellydn/typescript-tips)](https://github.com/jellydn/typescript-tips/stargazers)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
