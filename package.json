@@ -1,0 +1,14 @@
+{
+  "name": "typescript-tips",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/jellydn/typescript-tips.git",
+  "author": "Huynh Duc Dung <dunghd.it@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
