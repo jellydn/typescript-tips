@@ -8,6 +8,9 @@
   - [Matt Pocock](#matt-pocock)
   - [Carlos Caballero](#carlos-caballero)
   - [Minko Gechev](#minko-gechev)
+  - [Cory House](#cory-house)
+  - [Tomek Sułkowski](#tomek-sułkowski)
+  - [StackBlitz](#stackblitz)
   - [Extending existing types](#extending-existing-types)
   - [Built-in types](#built-in-types)
 
@@ -16,17 +19,35 @@
 ### Matt Pocock
 
 - [Normal union, a discriminated union, and a type predicate](mattpocockuk%20-%201592130978234900484.md)
+- [Use Object.freeze to ensure your objects are readonly at the type level AND the runtime level](mattpocockuk%20-%201542079199543975937.md)
 - [Inversion of control](mattpocockuk%20-%201591047557702389760.md)
 - [Ultimate TypeScript Thread](mattpocockuk%20-%201509964736275927042.md)
 - [TypeScript Tips Series](https://www.totaltypescript.com/tips)
 
-## Carlos Caballero
+### Carlos Caballero
 
 - [Use look up tables instead of "if"](Carlillo%20-%201591148366070747347.md)
 
 ### Minko Gechev
 
+- [Enum vs const enums](mgechev%20-%201309379618034642946.md)
+- [Use labeled tuple elements to get better hints from your text editor ](mgechev%20-%201361186013029269506.md)
 - [Use `as const` after literals](mgechev%20-%201462654597059817481.md)
+
+### Cory House
+
+- [Avoid making a property optional when the property isn’t valid in a certain case](housecor%20-%201581638360543600640.md)
+- [Alias the type's name when conflicts with an existing identifier](housecor%20-%201586865516395876359.md)
+
+### Tomek Sułkowski
+
+- [Extract it from a component using the handy `ComponentProps`](sulco%20-%201160890708615716864.md)
+
+### StackBlitz
+
+- [Infers array's type as const](stackblitz%20-%201325818478675304448.md)
+- [How to use extends](stackblitz%20-%201328353096179789824.md)
+- [How to use readonly](stackblitz%20-%201330890655351123968.md)
 
 ### Extending existing types
 
@@ -736,7 +757,9 @@ This project is made by community and especially the wonderful people and projec
 - [Matt Pocock ✈️ Modern Frontends](https://twitter.com/mattpocockuk)
 - [Carlos Caballero](https://twitter.com/Carlillo)
 - [Minko Gechev (@mgechev@mstdn.social)](https://twitter.com/mgechev)
-
+- [Cory House](https://twitter.com/housecor)
+- [Tomek Sułkowski](https://twitter.com/sulco)
+- [StackBlitz](https://twitter.com/StackBlitz)
 
 ## Author
 
