@@ -52,6 +52,9 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 ### Wes Bos
 
 - [Four ways to define an object type in TypeScript](wesbos%20-%201524040757518258176.md)
+- [The difference between `any` and `unknown`](wesbos%20-%201584905090628034560.md)
+- [Use TypeScript's `never` for making sure you hit every scenario](wesbos%20-%201585641232155348992.md)
+- [Use TypeScript's `never` to enforce "one or the other" properties on a type](wesbos%20-%201587082842110033926.md)
 
 ### StackBlitz
 
