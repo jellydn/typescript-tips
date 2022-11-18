@@ -12,6 +12,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
   - [Minko Gechev](#minko-gechev)
   - [Cory House](#cory-house)
   - [Tomek Sułkowski](#tomek-sułkowski)
+  - [Wes Bos](#wes-bos)
   - [StackBlitz](#stackblitz)
   - [Extending existing types](#extending-existing-types)
   - [Built-in types](#built-in-types)
@@ -47,6 +48,10 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 ### Tomek Sułkowski
 
 - [Extract it from a component using the handy `ComponentProps`](sulco%20-%201160890708615716864.md)
+
+### Wes Bos
+
+- [Four ways to define an object type in TypeScript](wesbos%20-%201524040757518258176.md)
 
 ### StackBlitz
 
@@ -734,7 +739,7 @@ Create .envrc and fill the value then Use [tweet-to-markdown](https://github.com
 
 ```sh
 # .envrc
-export TTM_API_KEY=
+export TTM_API_KEY=YOUR_API_KEY
 ```
 
 Then run the [direnv](https://direnv.net/) command
@@ -764,6 +769,7 @@ This project is made by community and especially the wonderful people and projec
 - [Minko Gechev (@mgechev@mstdn.social)](https://twitter.com/mgechev)
 - [Cory House](https://twitter.com/housecor)
 - [Tomek Sułkowski](https://twitter.com/sulco)
+- [Wes Bos](https://twitter.com/wesbos)
 - [StackBlitz](https://twitter.com/StackBlitz)
 
 ## Author
