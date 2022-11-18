@@ -2,9 +2,11 @@
 
 > A curated list of awesome 🔥 TypeScript Tips 🔥
 
+If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-typesafe](https://github.com/jellydn/awesome-typesafe)
+
 ## Contents
 
-- [Tips](#Tips)
+- [Tips](#tips)
   - [Matt Pocock](#matt-pocock)
   - [Carlos Caballero](#carlos-caballero)
   - [Minko Gechev](#minko-gechev)
@@ -13,6 +15,9 @@
   - [StackBlitz](#stackblitz)
   - [Extending existing types](#extending-existing-types)
   - [Built-in types](#built-in-types)
+- [Contribute](#contribute)
+  - [Twitter to markdown file](#twitter-to-markdown-file)
+- [Credits](#credits)
 
 ## Tips
 
@@ -723,7 +728,7 @@ You can find some examples in the
 Contributions welcome! Read the [contribution guidelines](contributing.md)
 first.
 
-## How to generate twitter to markdown file
+### Twitter to markdown file
 
 Create .envrc and fill the value then Use [tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown)
 
