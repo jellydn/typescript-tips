@@ -4,6 +4,10 @@
 
 If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-typesafe](https://github.com/jellydn/awesome-typesafe)
 
+## 🏠 [Homepage](https://github.com/jellydn/typescript-tips)
+
+<!-- ### ✨ [Demo](https://jellydn.github.io/typescript-tips/) -->
+
 ## Contents
 
 - [Tips](#tips)
@@ -751,7 +755,7 @@ Then run the [direnv](https://direnv.net/) command
  direnv allow .
 ```
 
-Finally, the generate markdown from a twitter url
+Finally, generate markdown from a twitter url
 
 ```sh
 npx tweet-to-markdown https://twitter.com/mattpocockuk/status/1509964736275927042\?s\=20\&t\=sA-g5MNM5TPjN6Ozs1qxgA
