@@ -28,11 +28,12 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 
 ### Matt Pocock
 
+- [TypeScript Tips Series](https://www.totaltypescript.com/tips)
 - [Normal union, a discriminated union, and a type predicate](mattpocockuk%20-%201592130978234900484.md)
 - [Use Object.freeze to ensure your objects are readonly at the type level AND the runtime level](mattpocockuk%20-%201542079199543975937.md)
 - [Inversion of control](mattpocockuk%20-%201591047557702389760.md)
 - [Ultimate TypeScript Thread](mattpocockuk%20-%201509964736275927042.md)
-- [TypeScript Tips Series](https://www.totaltypescript.com/tips)
+- [Expose type to global with declare global](mattpocockuk%20-%201593584053042630657.md)
 
 ### Carlos Caballero
 
@@ -59,6 +60,9 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [The difference between `any` and `unknown`](wesbos%20-%201584905090628034560.md)
 - [Use TypeScript's `never` for making sure you hit every scenario](wesbos%20-%201585641232155348992.md)
 - [Use TypeScript's `never` to enforce "one or the other" properties on a type](wesbos%20-%201587082842110033926.md)
+<!-- - https://twitter.com/wesbos/status/1582803702225989637?s=20&t=ckw-NHUvZFYP_Iv_Gf1w2g
+- https://twitter.com/wesbos/status/1583093975359315968?s=20&t=ckw-NHUvZFYP_Iv_Gf1w2g
+- https://twitter.com/wesbos/status/1585258976421224450?s=20&t=ckw-NHUvZFYP_Iv_Gf1w2g -->
 
 ### StackBlitz
 
