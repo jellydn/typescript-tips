@@ -759,11 +759,19 @@ Then run the [direnv](https://direnv.net/) command
  direnv allow .
 ```
 
-Finally, generate markdown from a twitter url
+And, generate markdown from a twitter url
 
 ```sh
 npx tweet-to-markdown https://twitter.com/mattpocockuk/status/1509964736275927042\?s\=20\&t\=sA-g5MNM5TPjN6Ozs1qxgA
 ```
+
+Finally, add the [Thread Reader App](https://threadreaderapp.com) at the end with below format.
+
+```markdown
+[Thread by @USERNAME on Thread Reader App](https://threadreaderapp.com/thread/STATUS_ID.html)
+```
+
+NOTE: I have sent a pull request about this step to `tweet-to-markdown` repository: [feat: add Thread Reader App link and the end #19](https://github.com/kbravh/tweet-to-markdown/pull/19) Might not need this step if this PR is accepted.
 
 ## Credits
 
