@@ -34,6 +34,8 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Inversion of control](notes/mattpocockuk%20-%201591047557702389760.md)
 - [Ultimate TypeScript Thread](notes/mattpocockuk%20-%201509964736275927042.md)
 - [Expose type to global with declare global](notes/mattpocockuk%20-%201593584053042630657.md)
+- [Use generics to dynamically specify the number, and type, of arguments to functions](notes/mattpocockuk%20-%201509850662795989005.md)
+- [Adding things to the global scope in TypeScript](notes/mattpocockuk%20-%201590333383501979649.md)
 
 ### Wes Bos
 
@@ -63,6 +65,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 ### Tomek Sułkowski
 
 - [Extract it from a component using the handy `ComponentProps`](notes/sulco%20-%201160890708615716864.md)
+- [Use `keyof` gets a union type of all properties of the given object](notes/sulco%20-%201222507593287028736.md)
 
 ### StackBlitz
 
