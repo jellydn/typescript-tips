@@ -6,7 +6,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 
 ## 🏠 [Homepage](https://github.com/jellydn/typescript-tips)
 
-<!-- ### ✨ [Demo](https://jellydn.github.io/typescript-tips/) -->
+### ✨ [Gitbook](https://productsway.gitbook.io/typescript-tips/)
 
 ## Contents
 
