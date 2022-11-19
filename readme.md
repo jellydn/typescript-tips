@@ -12,11 +12,11 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 
 - [Tips](#tips)
   - [Matt Pocock](#matt-pocock)
+  - [Wes Bos](#wes-bos)
   - [Carlos Caballero](#carlos-caballero)
   - [Minko Gechev](#minko-gechev)
   - [Cory House](#cory-house)
   - [Tomek Sułkowski](#tomek-sułkowski)
-  - [Wes Bos](#wes-bos)
   - [StackBlitz](#stackblitz)
   - [Extending existing types](#extending-existing-types)
   - [Built-in types](#built-in-types)
@@ -34,6 +34,16 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Inversion of control](mattpocockuk%20-%201591047557702389760.md)
 - [Ultimate TypeScript Thread](mattpocockuk%20-%201509964736275927042.md)
 - [Expose type to global with declare global](mattpocockuk%20-%201593584053042630657.md)
+
+### Wes Bos
+
+- [Four ways to define an object type in TypeScript](wesbos%20-%201524040757518258176.md)
+- [The difference between `any` and `unknown`](wesbos%20-%201584905090628034560.md)
+- [Use TypeScript's `never` for making sure you hit every scenario](wesbos%20-%201585641232155348992.md)
+- [Use TypeScript's `never` to enforce "one or the other" properties on a type](wesbos%20-%201587082842110033926.md)
+- [Type Guard in TypeScript by using the `is` keyword in a functions return type](wesbos%20-%201585258976421224450.md)
+- [VSCode - quickly add all properties to a typed object in TypeScript with the ts-quickfixes](wesbos%20-%201582803702225989637.md)
+- [VSCode - refactoring your codebase](wesbos%20-%201583093975359315968.md)
 
 ### Carlos Caballero
 
@@ -53,16 +63,6 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 ### Tomek Sułkowski
 
 - [Extract it from a component using the handy `ComponentProps`](sulco%20-%201160890708615716864.md)
-
-### Wes Bos
-
-- [Four ways to define an object type in TypeScript](wesbos%20-%201524040757518258176.md)
-- [The difference between `any` and `unknown`](wesbos%20-%201584905090628034560.md)
-- [Use TypeScript's `never` for making sure you hit every scenario](wesbos%20-%201585641232155348992.md)
-- [Use TypeScript's `never` to enforce "one or the other" properties on a type](wesbos%20-%201587082842110033926.md)
-<!-- - https://twitter.com/wesbos/status/1582803702225989637?s=20&t=ckw-NHUvZFYP_Iv_Gf1w2g
-- https://twitter.com/wesbos/status/1583093975359315968?s=20&t=ckw-NHUvZFYP_Iv_Gf1w2g
-- https://twitter.com/wesbos/status/1585258976421224450?s=20&t=ckw-NHUvZFYP_Iv_Gf1w2g -->
 
 ### StackBlitz
 
@@ -780,15 +780,17 @@ This project is made by community and especially the wonderful people and projec
 ### Open Source
 
 - [type-fest](https://github.com/sindresorhus/type-fest): for 2 sections (Extending existing type, Built-in types)
+- [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
+- [Thread Reader App](https://threadreaderapp.com/): Thread Reader helps you read and share Twitter threads easily!
 
 ### Tech Twitter
 
 - [Matt Pocock ✈️ Modern Frontends](https://twitter.com/mattpocockuk)
+- [Wes Bos](https://twitter.com/wesbos)
 - [Carlos Caballero](https://twitter.com/Carlillo)
 - [Minko Gechev (@mgechev@mstdn.social)](https://twitter.com/mgechev)
 - [Cory House](https://twitter.com/housecor)
 - [Tomek Sułkowski](https://twitter.com/sulco)
-- [Wes Bos](https://twitter.com/wesbos)
 - [StackBlitz](https://twitter.com/StackBlitz)
 
 ## Author
