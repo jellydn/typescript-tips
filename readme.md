@@ -29,46 +29,46 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 ### Matt Pocock
 
 - [TypeScript Tips Series](https://www.totaltypescript.com/tips)
-- [Normal union, a discriminated union, and a type predicate](mattpocockuk%20-%201592130978234900484.md)
-- [Use Object.freeze to ensure your objects are readonly at the type level AND the runtime level](mattpocockuk%20-%201542079199543975937.md)
-- [Inversion of control](mattpocockuk%20-%201591047557702389760.md)
-- [Ultimate TypeScript Thread](mattpocockuk%20-%201509964736275927042.md)
-- [Expose type to global with declare global](mattpocockuk%20-%201593584053042630657.md)
+- [Normal union, a discriminated union, and a type predicate](notes/mattpocockuk%20-%201592130978234900484.md)
+- [Use Object.freeze to ensure your objects are readonly at the type level AND the runtime level](notes/mattpocockuk%20-%201542079199543975937.md)
+- [Inversion of control](notes/mattpocockuk%20-%201591047557702389760.md)
+- [Ultimate TypeScript Thread](notes/mattpocockuk%20-%201509964736275927042.md)
+- [Expose type to global with declare global](notes/mattpocockuk%20-%201593584053042630657.md)
 
 ### Wes Bos
 
-- [Four ways to define an object type in TypeScript](wesbos%20-%201524040757518258176.md)
-- [The difference between `any` and `unknown`](wesbos%20-%201584905090628034560.md)
-- [Use TypeScript's `never` for making sure you hit every scenario](wesbos%20-%201585641232155348992.md)
-- [Use TypeScript's `never` to enforce "one or the other" properties on a type](wesbos%20-%201587082842110033926.md)
-- [Type Guard in TypeScript by using the `is` keyword in a functions return type](wesbos%20-%201585258976421224450.md)
-- [VSCode - quickly add all properties to a typed object in TypeScript with the ts-quickfixes](wesbos%20-%201582803702225989637.md)
-- [VSCode - refactoring your codebase](wesbos%20-%201583093975359315968.md)
+- [Four ways to define an object type in TypeScript](notes/wesbos%20-%201524040757518258176.md)
+- [The difference between `any` and `unknown`](notes/wesbos%20-%201584905090628034560.md)
+- [Use TypeScript's `never` for making sure you hit every scenario](notes/wesbos%20-%201585641232155348992.md)
+- [Use TypeScript's `never` to enforce "one or the other" properties on a type](notes/wesbos%20-%201587082842110033926.md)
+- [Type Guard in TypeScript by using the `is` keyword in a functions return type](notes/wesbos%20-%201585258976421224450.md)
+- [VSCode - quickly add all properties to a typed object in TypeScript with the ts-quickfixes](notes/wesbos%20-%201582803702225989637.md)
+- [VSCode - refactoring your codebase](notes/wesbos%20-%201583093975359315968.md)
 
 ### Carlos Caballero
 
-- [Use look up tables instead of "if"](Carlillo%20-%201591148366070747347.md)
+- [Use look up tables instead of "if"](notes/Carlillo%20-%201591148366070747347.md)
 
 ### Minko Gechev
 
-- [Enum vs const enums](mgechev%20-%201309379618034642946.md)
-- [Use labeled tuple elements to get better hints from your text editor ](mgechev%20-%201361186013029269506.md)
-- [Use `as const` after literals](mgechev%20-%201462654597059817481.md)
+- [Enum vs const enums](notes/mgechev%20-%201309379618034642946.md)
+- [Use labeled tuple elements to get better hints from your text editor ](notes/mgechev%20-%201361186013029269506.md)
+- [Use `as const` after literals](notes/mgechev%20-%201462654597059817481.md)
 
 ### Cory House
 
-- [Avoid making a property optional when the property isn’t valid in a certain case](housecor%20-%201581638360543600640.md)
-- [Alias the type's name when conflicts with an existing identifier](housecor%20-%201586865516395876359.md)
+- [Avoid making a property optional when the property isn’t valid in a certain case](notes/housecor%20-%201581638360543600640.md)
+- [Alias the type's name when conflicts with an existing identifier](notes/housecor%20-%201586865516395876359.md)
 
 ### Tomek Sułkowski
 
-- [Extract it from a component using the handy `ComponentProps`](sulco%20-%201160890708615716864.md)
+- [Extract it from a component using the handy `ComponentProps`](notes/sulco%20-%201160890708615716864.md)
 
 ### StackBlitz
 
-- [Infers array's type as const](stackblitz%20-%201325818478675304448.md)
-- [How to use extends](stackblitz%20-%201328353096179789824.md)
-- [How to use readonly](stackblitz%20-%201330890655351123968.md)
+- [Infers array's type as const](notes/stackblitz%20-%201325818478675304448.md)
+- [How to use extends](notes/stackblitz%20-%201328353096179789824.md)
+- [How to use readonly](notes/stackblitz%20-%201330890655351123968.md)
 
 ### Extending existing types
 
@@ -741,7 +741,7 @@ You can find some examples in the
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md)
+Contributions welcome! Read the [contribution guidelines](docs/contributing.md)
 first.
 
 ### Twitter to markdown file
@@ -762,7 +762,7 @@ Then run the [direnv](https://direnv.net/) command
 And, generate markdown from a twitter url
 
 ```sh
-npx tweet-to-markdown https://twitter.com/mattpocockuk/status/1509964736275927042\?s\=20\&t\=sA-g5MNM5TPjN6Ozs1qxgA
+npx tweet-to-markdown -p notes https://twitter.com/mattpocockuk/status/1509964736275927042\?s\=20\&t\=sA-g5MNM5TPjN6Ozs1qxgA
 ```
 
 Finally, add the [Thread Reader App](https://threadreaderapp.com) at the end with below format.
