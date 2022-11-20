@@ -809,6 +809,10 @@ This project is made by community and especially the wonderful people and projec
 
 [![Stargazers repo roster for @jellydn/typescript-tips](https://reporoster.com/stars/jellydn/typescript-tips)](https://github.com/jellydn/typescript-tips/stargazers)
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/jellydn/typescript-tips.svg)](https://starchart.cc/jellydn/typescript-tips)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
