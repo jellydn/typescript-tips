@@ -30,6 +30,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 
 - [TypeScript Tips Series](https://www.totaltypescript.com/tips)
 - [Normal union, a discriminated union, and a type predicate](notes/mattpocockuk%20-%201592130978234900484.md)
+- [Enter satisfies()() 👀](notes/mattpocockuk%20-%201536670032360611840.md)
 - [Use Object.freeze to ensure your objects are readonly at the type level AND the runtime level](notes/mattpocockuk%20-%201542079199543975937.md)
 - [Inversion of control](notes/mattpocockuk%20-%201591047557702389760.md)
 - [Ultimate TypeScript Thread](notes/mattpocockuk%20-%201509964736275927042.md)
