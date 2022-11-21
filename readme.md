@@ -14,6 +14,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
   - [Matt Pocock](#matt-pocock)
   - [Wes Bos](#wes-bos)
   - [Carlos Caballero](#carlos-caballero)
+  - [Ankita Kulkarni](#ankita-kulkarni)
   - [Minko Gechev](#minko-gechev)
   - [Cory House](#cory-house)
   - [Tomek Sułkowski](#tomek-sułkowski)
@@ -51,6 +52,10 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 ### Carlos Caballero
 
 - [Use look up tables instead of "if"](notes/Carlillo%20-%201591148366070747347.md)
+
+### Ankita Kulkarni
+
+- [Typescript 4.9 satisfies operator - check if the type matches one of these listed type](notes/kulkarniankita9%20-%201594154991148597250.md)
 
 ### Minko Gechev
 
@@ -792,6 +797,7 @@ This project is made by community and especially the wonderful people and projec
 - [Matt Pocock ✈️ Modern Frontends](https://twitter.com/mattpocockuk)
 - [Wes Bos](https://twitter.com/wesbos)
 - [Carlos Caballero](https://twitter.com/Carlillo)
+- [Ankita Kulkarni](https://twitter.com/kulkarniankita9)
 - [Minko Gechev (@mgechev@mstdn.social)](https://twitter.com/mgechev)
 - [Cory House](https://twitter.com/housecor)
 - [Tomek Sułkowski](https://twitter.com/sulco)
