@@ -13,6 +13,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Tips](#tips)
   - [Matt Pocock](#matt-pocock)
   - [Wes Bos](#wes-bos)
+  - [Erik Rasmussen](#erik-rasmussen)
   - [Carlos Caballero](#carlos-caballero)
   - [Ankita Kulkarni](#ankita-kulkarni)
   - [Minko Gechev](#minko-gechev)
@@ -48,6 +49,10 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Type Guard in TypeScript by using the `is` keyword in a functions return type](notes/wesbos%20-%201585258976421224450.md)
 - [VSCode - quickly add all properties to a typed object in TypeScript with the ts-quickfixes](notes/wesbos%20-%201582803702225989637.md)
 - [VSCode - refactoring your codebase](notes/wesbos%20-%201583093975359315968.md)
+
+### Erik Rasmussen
+
+- [Passing around unique identifiers of objects, select the type of the identifier right off of the object type](notes/erikras%20-%201457999235564154882.md)
 
 ### Carlos Caballero
 
@@ -796,6 +801,7 @@ This project is made by community and especially the wonderful people and projec
 
 - [Matt Pocock ✈️ Modern Frontends](https://twitter.com/mattpocockuk)
 - [Wes Bos](https://twitter.com/wesbos)
+- [Erik Rasmussen](https://twitter.com/erikras)
 - [Carlos Caballero](https://twitter.com/Carlillo)
 - [Ankita Kulkarni](https://twitter.com/kulkarniankita9)
 - [Minko Gechev (@mgechev@mstdn.social)](https://twitter.com/mgechev)
@@ -815,7 +821,7 @@ This project is made by community and especially the wonderful people and projec
 
 [![Stargazers repo roster for @jellydn/typescript-tips](https://reporoster.com/stars/jellydn/typescript-tips)](https://github.com/jellydn/typescript-tips/stargazers)
 
-## Stargazers over time
+### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/jellydn/typescript-tips.svg)](https://starchart.cc/jellydn/typescript-tips)
 
