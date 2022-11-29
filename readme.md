@@ -19,6 +19,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
   - [Minko Gechev](#minko-gechev)
   - [Cory House](#cory-house)
   - [Tomek Sułkowski](#tomek-sułkowski)
+  - [Sebastien Lorber](#sebastien-lorber)
   - [StackBlitz](#stackblitz)
   - [Extending existing types](#extending-existing-types)
   - [Built-in types](#built-in-types)
@@ -72,11 +73,16 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 
 - [Avoid making a property optional when the property isn’t valid in a certain case](notes/housecor%20-%201581638360543600640.md)
 - [Alias the type's name when conflicts with an existing identifier](notes/housecor%20-%201586865516395876359.md)
+- [Many optional properties are a code smell](notes/housecor%20-%201596861970170671104.md)
 
 ### Tomek Sułkowski
 
 - [Extract it from a component using the handy `ComponentProps`](notes/sulco%20-%201160890708615716864.md)
 - [Use `keyof` gets a union type of all properties of the given object](notes/sulco%20-%201222507593287028736.md)
+
+### Sebastien Lorber
+
+- [No need to import DOM event handler types](notes/sebastienlorber%20-%201512420374201446405.md)
 
 ### StackBlitz
 
@@ -807,6 +813,7 @@ This project is made by community and especially the wonderful people and projec
 - [Minko Gechev (@mgechev@mstdn.social)](https://twitter.com/mgechev)
 - [Cory House](https://twitter.com/housecor)
 - [Tomek Sułkowski](https://twitter.com/sulco)
+- [Sebastien Lorber](https://twitter.com/sebastienlorber)
 - [StackBlitz](https://twitter.com/StackBlitz)
 
 ## Author
