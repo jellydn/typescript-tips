@@ -824,6 +824,15 @@ This project is made by community and especially the wonderful people and projec
 - Twitter: [@jellydn](https://twitter.com/jellydn)
 - Github: [@jellydn](https://github.com/jellydn)
 
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+[![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dunghd)
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dunghd)
+[![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dunghd)
+
+
 ## Stargazers
 
 [![Stargazers repo roster for @jellydn/typescript-tips](https://reporoster.com/stars/jellydn/typescript-tips)](https://github.com/jellydn/typescript-tips/stargazers)
@@ -831,9 +840,3 @@ This project is made by community and especially the wonderful people and projec
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/jellydn/typescript-tips.svg)](https://starchart.cc/jellydn/typescript-tips)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
