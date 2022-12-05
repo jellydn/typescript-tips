@@ -40,6 +40,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Expose type to global with declare global](notes/mattpocockuk%20-%201593584053042630657.md)
 - [Use generics to dynamically specify the number, and type, of arguments to functions](notes/mattpocockuk%20-%201509850662795989005.md)
 - [Adding things to the global scope in TypeScript](notes/mattpocockuk%20-%201590333383501979649.md)
+- [Using 'as const' over enums](notes/mattpocockuk%20-%201598708710523772929.md)
 
 ### Wes Bos
 
