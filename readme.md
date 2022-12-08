@@ -41,6 +41,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Use generics to dynamically specify the number, and type, of arguments to functions](notes/mattpocockuk%20-%201509850662795989005.md)
 - [Adding things to the global scope in TypeScript](notes/mattpocockuk%20-%201590333383501979649.md)
 - [Using 'as const' over enums](notes/mattpocockuk%20-%201598708710523772929.md)
+- [Use assertion functions inside classes](notes/mattpocockuk%20-%201512388535692652547.md)
 
 ### Wes Bos
 
@@ -832,7 +833,6 @@ Give a ⭐️ if this project helped you!
 [![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dunghd)
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dunghd)
 [![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dunghd)
-
 
 ## Stargazers
 
