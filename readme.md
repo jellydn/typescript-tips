@@ -787,6 +787,12 @@ And, generate markdown from a twitter url
 npx tweet-to-markdown -p notes https://twitter.com/mattpocockuk/status/1509964736275927042\?s\=20\&t\=sA-g5MNM5TPjN6Ozs1qxgA
 ```
 
+Then save video if available
+
+```sh
+curl -s "https://download-twitter-video.egoist.dev/api/twitter?url=https://twitter.com/mattpocockuk/status/1509964736275927042" | jq -r ".data.video" | xargs curl -o "$(date +"%Y%m%d%H%M%S").mp4"
+```
+
 Finally, add the [Thread Reader App](https://threadreaderapp.com) at the end with below format.
 
 ```markdown
@@ -801,9 +807,10 @@ This project is made by community and especially the wonderful people and projec
 
 ### Open Source
 
-- [type-fest](https://github.com/sindresorhus/type-fest): for 2 sections (Extending existing type, Built-in types)
+- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest): for 2 sections (Extending existing type, Built-in types)
 - [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
 - [Thread Reader App](https://threadreaderapp.com/): Thread Reader helps you read and share Twitter threads easily!
+- [egoist/download-twitter-video](https://github.com/egoist/download-twitter-video) : The easiest way to download any Twitter video
 
 ### Tech Twitter
 
