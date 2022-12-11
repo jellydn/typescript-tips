@@ -790,7 +790,7 @@ npx tweet-to-markdown -p notes https://twitter.com/mattpocockuk/status/150996473
 Then save video if available
 
 ```sh
-curl -s "https://download-twitter-video.egoist.dev/api/twitter?url=https://twitter.com/mattpocockuk/status/1509964736275927042" | jq -r ".data.video" | xargs curl -o "$(date +"%Y%m%d%H%M%S").mp4"
+npx twt-dl-cli@latest https://twitter.com/mattpocockuk/status/1592130978234900484
 ```
 
 Finally, add the [Thread Reader App](https://threadreaderapp.com) at the end with below format.
