@@ -20,6 +20,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
   - [Cory House](#cory-house)
   - [Tomek Sułkowski](#tomek-sułkowski)
   - [Sebastien Lorber](#sebastien-lorber)
+  - [Steve (Builder.io)](#steve-builderio)
   - [StackBlitz](#stackblitz)
   - [Extending existing types](#extending-existing-types)
   - [Built-in types](#built-in-types)
@@ -85,6 +86,10 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 ### Sebastien Lorber
 
 - [No need to import DOM event handler types](notes/sebastienlorber%20-%201512420374201446405.md)
+
+### Steve (Builder.io)
+
+- [The `satisfies` operator in TypeScript 4.9 is a game changer](notes/Steve8708%20-%201605322303319199744.md)
 
 ### StackBlitz
 
@@ -823,6 +828,7 @@ This project is made by community and especially the wonderful people and projec
 - [Cory House](https://twitter.com/housecor)
 - [Tomek Sułkowski](https://twitter.com/sulco)
 - [Sebastien Lorber](https://twitter.com/sebastienlorber)
+- [Steve (Builder.io)](https://twitter.com/Steve8708)
 - [StackBlitz](https://twitter.com/StackBlitz)
 
 ## Author
