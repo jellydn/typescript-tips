@@ -801,7 +801,7 @@ npx twt-dl-cli@latest https://twitter.com/mattpocockuk/status/159213097823490048
 Finally, add the [Thread Reader App](https://threadreaderapp.com) at the end with below format.
 
 ```markdown
-[Thread by @USERNAME on Thread Reader App](https://threadreaderapp.com/thread/STATUS_ID.html)
+[Thread by @USERNAME on Threadify Reader App](https://threadify.productsway.com/thread/STATUS_ID)
 ```
 
 NOTE: I have sent a pull request about this step to `tweet-to-markdown` repository: [feat: add Thread Reader App link and the end #19](https://github.com/kbravh/tweet-to-markdown/pull/19) Might not need this step if this PR is accepted.
@@ -814,7 +814,7 @@ This project is made by community and especially the wonderful people and projec
 
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest): for 2 sections (Extending existing type, Built-in types)
 - [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
-- [Thread Reader App](https://threadreaderapp.com/): Thread Reader helps you read and share Twitter threads easily!
+- [jellydn/threadify-plus](https://github.com/jellydn/threadify-plus): ThreadifyPlus is a simple and easy-to-use tool that helps users read and share Twitter threads with ease. (WIP)
 - [egoist/download-twitter-video](https://github.com/egoist/download-twitter-video) : The easiest way to download any Twitter video
 
 ### Tech Twitter
