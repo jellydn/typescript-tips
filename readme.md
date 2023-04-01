@@ -43,6 +43,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Adding things to the global scope in TypeScript](notes/mattpocockuk%20-%201590333383501979649.md)
 - [Using 'as const' over enums](notes/mattpocockuk%20-%201598708710523772929.md)
 - [Use assertion functions inside classes](notes/mattpocockuk%20-%201512388535692652547.md)
+- [Compound Components in React are SUPER easy to type in TS](notes/mattpocockuk%20-%201638562171863834625.md)
 
 ### Wes Bos
 
