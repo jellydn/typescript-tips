@@ -54,6 +54,7 @@ If you enjoy TypeScript and really want to use Typesafe, you can check [awesome-
 - [Type Guard in TypeScript by using the `is` keyword in a functions return type](notes/wesbos%20-%201585258976421224450.md)
 - [VSCode - quickly add all properties to a typed object in TypeScript with the ts-quickfixes](notes/wesbos%20-%201582803702225989637.md)
 - [VSCode - refactoring your codebase](notes/wesbos%20-%201583093975359315968.md)
+- [4 TypeScript tips in context of when you would use them. as const, typeof, keyof and template string types](notes/wesbos%20-%201615777112408866832.md)
 
 ### Erik Rasmussen
 
