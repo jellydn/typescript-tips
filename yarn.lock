@@ -241,9 +241,9 @@ assert-never@^1.2.1:
   integrity sha512-TaTivMB6pYI1kXwrFlEhLeGfOqoDNdTxjCdwRfFFkEA30Eu+k48W34nlok2EYWJfFFzqaEmichdNM7th6M5HNw==
 
 async@^3.2.3:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/async/-/async-3.2.4.tgz#2d22e00f8cddeb5fde5dd33522b56d1cf569a81c"
-  integrity sha512-iAB+JbDEGXhyIUavoDl9WP/Jj106Kz9DEn1DPgYw5ruDn0e3Wgi3sKFm55sASdGBNOQB8F59d9qQ7deqrHA8wQ==
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.5.tgz#ebd52a8fdaf7a2289a24df399f8d8485c8a46b66"
+  integrity sha512-baNZyqaaLhyLVKm/DlvdW051MSgO6b8eVfIezl9E5PqWxFgzLm/wQntEW4zOytVburDEr0JlALEpdOFwvErLsg==
 
 babel-walk@3.0.0-canary-5:
   version "3.0.0-canary-5"
@@ -854,9 +854,9 @@ linkify-it@^4.0.1:
     uc.micro "^1.0.1"
 
 liquidjs@^10.7.0:
-  version "10.9.3"
-  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.9.3.tgz#1821eccdb77bc21fd1238047b14f032a9b7a56b8"
-  integrity sha512-vG8fLPSBtf0C6FJg0DwzxwWF0sPE+wIRrrGsNoe0DP3Pg4HOPqycGDT14V4UfyskUXsum7DkhUuZQ9tBRjbX+g==
+  version "10.9.4"
+  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.9.4.tgz#275ef6b063489a958a527fb36de5e0a37c63c1a0"
+  integrity sha512-E7SmGMwhv0Pa1Yau6odd2EgNPAmrx1OOjzvpm9AFxBGVtCX2Bx4fOCDtDCML13L7g6zjLPN7Kb/kakyAl2HTPQ==
   dependencies:
     commander "^10.0.0"
 
