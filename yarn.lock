@@ -80,10 +80,10 @@
   resolved "https://registry.yarnpkg.com/@11ty/lodash-custom/-/lodash-custom-4.17.21.tgz#a8d2e25a47ee3bb58b71cde4edc2ae8dd3d1b269"
   integrity sha512-Mqt6im1xpb1Ykn3nbcCovWXK3ggywRJa+IXIdoz4wIIK+cvozADH63lexcuPpGS/gJ6/m2JxyyXDyupkMr5DHw==
 
-"@babel/helper-string-parser@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/helper-string-parser/-/helper-string-parser-7.24.7.tgz#4d2d0f14820ede3b9807ea5fc36dfc8cd7da07f2"
-  integrity sha512-7MbVt6xrwFQbunH2DNQsAP5sTGxfqQtErvBIvIMi6EQnbgUOuVYanvREcmFrOPhoXBrTtjhhP+lW+o5UfK+tDg==
+"@babel/helper-string-parser@^7.24.8":
+  version "7.24.8"
+  resolved "https://registry.yarnpkg.com/@babel/helper-string-parser/-/helper-string-parser-7.24.8.tgz#5b3329c9a58803d5df425e5785865881a81ca48d"
+  integrity sha512-pO9KhhRcuUyGnJWwyEgnRJTSIZHiT+vMD0kPeD+so0l7mxkMT19g3pjY9GTnHySck/hDzq+dtW/4VgnMkippsQ==
 
 "@babel/helper-validator-identifier@^7.24.7":
   version "7.24.7"
@@ -91,16 +91,16 @@
   integrity sha512-rR+PBcQ1SMQDDyF6X0wxtG8QyLCgUB0eRAGguqRLfkCA87l7yAP7ehq8SNj96OOGTO8OBV70KhuFYcIkHXOg0w==
 
 "@babel/parser@^7.6.0", "@babel/parser@^7.9.6":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.24.7.tgz#9a5226f92f0c5c8ead550b750f5608e766c8ce85"
-  integrity sha512-9uUYRm6OqQrCqQdG1iCBwBPZgN8ciDBro2nIOFaiRz1/BCxaI7CNvQbDHvsArAC7Tw9Hda/B3U+6ui9u4HWXPw==
+  version "7.24.8"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.24.8.tgz#58a4dbbcad7eb1d48930524a3fd93d93e9084c6f"
+  integrity sha512-WzfbgXOkGzZiXXCqk43kKwZjzwx4oulxZi3nq2TYL9mOjQv6kYwul9mz6ID36njuL7Xkp6nJEfok848Zj10j/w==
 
 "@babel/types@^7.6.1", "@babel/types@^7.9.6":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.24.7.tgz#6027fe12bc1aa724cd32ab113fb7f1988f1f66f2"
-  integrity sha512-XEFXSlxiG5td2EJRe8vOmRbaXVgfcBlszKujvVmWIK/UpywWljQCfzAv3RQCGujWQ1RD4YYWEAqDXfuJiy8f5Q==
+  version "7.24.8"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.24.8.tgz#d51ffa9043b17d36622efa44e861a49e69e130a8"
+  integrity sha512-SkSBEHwwJRU52QEVZBmMBnE5Ux2/6WU1grdYyOhpbCNxbmJrDuDCphBzKZSO3taf0zztp+qkWlymE5tVL5l0TA==
   dependencies:
-    "@babel/helper-string-parser" "^7.24.7"
+    "@babel/helper-string-parser" "^7.24.8"
     "@babel/helper-validator-identifier" "^7.24.7"
     to-fast-properties "^2.0.0"
 
@@ -869,9 +869,9 @@ linkify-it@^4.0.1:
     uc.micro "^1.0.1"
 
 liquidjs@^10.7.0:
-  version "10.14.0"
-  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.14.0.tgz#d3bb42a06b7d96a1c485feab9be09ad0e5ae7d23"
-  integrity sha512-Zjg35Yo3L/2aNy7QkICha/ulbXRtZS7oRenWyDDfw+J34Xy3fOKWWHxASC9r0gbxN661nrwmG/kOIKHfYcVk4Q==
+  version "10.15.0"
+  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.15.0.tgz#c1f68011b1cc84d31e72b6210a835c2430d37cbc"
+  integrity sha512-u5lYWhW8ioT+O3FdCcp5U+hiPEGNO4xASCFlCHA+k5rMTJwDIa2c2KF111ZDKc2xGM7LXPvMoNRIrBfbLNpRBg==
   dependencies:
     commander "^10.0.0"
 
