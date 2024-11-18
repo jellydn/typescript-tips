@@ -870,9 +870,9 @@ linkify-it@^4.0.1:
     uc.micro "^1.0.1"
 
 liquidjs@^10.7.0:
-  version "10.18.0"
-  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.18.0.tgz#9b9b7df1d068f416f4656af94b11eeb138602296"
-  integrity sha512-gCJPmpmZ3oi2rMMHo/c+bW1LaRF+ZAKYTWQmKXPp0uK9EkWMFRmgbk3+Io4LSJGAOnpCZSgHJbNzcygx3kfAAQ==
+  version "10.19.0"
+  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.19.0.tgz#05fbf11213761dcd6723305c90ea672ab0181b06"
+  integrity sha512-dNINmbNJ/bp3B8n25BtZQV/GbrmFf0o2InGdMdfQXa+LxfzTFXOkUnBsOLZUb82sLzxaiWv5Jc381Kn4zHjTsQ==
   dependencies:
     commander "^10.0.0"
 
