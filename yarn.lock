@@ -990,9 +990,9 @@ moo@^0.5.2:
   integrity sha512-iSAJLHYKnX41mKcJKjqvnAN9sf0LMDTXDEvFv+ffuRR9a1MIuXLjMNL6EsnDHSkKLTWNqQQ5uo61P4EbU4NU+Q==
 
 morphdom@^2.7.0:
-  version "2.7.4"
-  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.7.4.tgz#c61d511e935cc25ca588dfaa752461f27865865e"
-  integrity sha512-ATTbWMgGa+FaMU3FhnFYB6WgulCqwf6opOll4CBzmVDTLvPMmUPrEv8CudmLPK0MESa64+6B89fWOxP3+YIlxQ==
+  version "2.7.5"
+  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.7.5.tgz#1f3942c85df3745a28674c41ddad572910259c05"
+  integrity sha512-z6bfWFMra7kBqDjQGHud1LSXtq5JJC060viEkQFMBX6baIecpkNr2Ywrn2OQfWP3rXiNFQRPoFjD8/TvJcWcDg==
 
 ms@2.0.0:
   version "2.0.0"
