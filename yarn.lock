@@ -1137,10 +1137,10 @@ pug-attrs@^3.0.0:
     js-stringify "^1.0.2"
     pug-runtime "^3.0.0"
 
-pug-code-gen@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/pug-code-gen/-/pug-code-gen-3.0.3.tgz#58133178cb423fe1716aece1c1da392a75251520"
-  integrity sha512-cYQg0JW0w32Ux+XTeZnBEeuWrAY7/HNE6TWnhiHGnnRYlCgyAUPoyh9KzCMa9WhcJlJ1AtQqpEYHc+vbCzA+Aw==
+pug-code-gen@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/pug-code-gen/-/pug-code-gen-3.0.4.tgz#2a82cd317f4983d9b61b51035de34e4f964d788d"
+  integrity sha512-6okWYIKdasTyXICyEtvobmTZAVX57JkzgzIi4iRJlin8kmhG+Xry2dsus+Mun/nGCn6F2U49haHI5mkELXB14g==
   dependencies:
     constantinople "^4.0.1"
     doctypes "^1.1.0"
@@ -1218,11 +1218,11 @@ pug-walk@^2.0.0:
   integrity sha512-yYELe9Q5q9IQhuvqsZNwA5hfPkMJ8u92bQLIMcsMxf/VADjNtEYptU+inlufAFYcWdHlwNfZOEnOOQrZrcyJCQ==
 
 pug@^3.0.2:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/pug/-/pug-3.0.3.tgz#e18324a314cd022883b1e0372b8af3a1a99f7597"
-  integrity sha512-uBi6kmc9f3SZ3PXxqcHiUZLmIXgfgWooKWXcwSGwQd2Zi5Rb0bT14+8CJjJgI8AB+nndLaNgHGrcc6bPIB665g==
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/pug/-/pug-3.0.4.tgz#9043ae8dd85fc8beb5becf09dd8e4b754b94b29f"
+  integrity sha512-kFfq5mMzrS7+wrl5pLJzZEzemx34OQ0w4SARfhy/3yxTlhbstsudDwJzhf1hP02yHzbjoVMSXUj/Sz6RNfMyXg==
   dependencies:
-    pug-code-gen "^3.0.3"
+    pug-code-gen "^3.0.4"
     pug-filters "^4.0.0"
     pug-lexer "^5.0.1"
     pug-linker "^4.0.0"
@@ -1322,9 +1322,9 @@ slash@^1.0.0:
   integrity sha512-3TYDR7xWt4dIqV2JauJr+EJeW356RXijHeUlO+8djJ+uBXPn8/2dpzBc8yQhh583sVvc9CvFAeQVgijsH+PNNg==
 
 slugify@^1.6.6:
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.6.6.tgz#2d4ac0eacb47add6af9e04d3be79319cbcc7924b"
-  integrity sha512-h+z7HKHYXj6wJU+AnS/+IH8Uh9fdcX1Lrhg1/VMdf9PwoBQXFcXiAdsy2tSK0P6gKwJLXp02r90ahUCqHk9rrw==
+  version "1.6.8"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.6.8.tgz#0e43855ebc7df24102d04082e0bcc3a344353604"
+  integrity sha512-HVk9X1E0gz3mSpoi60h/saazLKXKaZThMLU3u/aNwoYn8/xQyX2MGxL0ui2eaokkD7tF+Zo+cKTHUbe1mmmGzA==
 
 source-map@^0.6.1:
   version "0.6.1"
