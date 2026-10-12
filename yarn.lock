@@ -645,11 +645,11 @@ hamljs@^0.6.2:
   integrity sha512-/chXRp4WpL47I+HX1vCCdSbEXAljEG2FBMmgO7Am0bYsqgnEjreeWzUdX1onXqwZtcfgxbCg5WtEYYvuZ5muBg==
 
 handlebars@^4.7.7:
-  version "4.7.9"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.9.tgz#6f139082ab58dc4e5a0e51efe7db5ae890d56a0f"
-  integrity sha512-4E71E0rpOaQuJR2A3xDZ+GM1HyWYv1clR58tC8emQNeQe3RH7MAzSbat+V0wG78LQBo6m6bzSG/L4pBuCsgnUQ==
+  version "4.7.10"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.10.tgz#12419ea1b41391b3ffcf003f2164dcbce090c417"
+  integrity sha512-P5VJMVM7qgBn6vjXMw8WG9uVI+ncf2pi72j4de4yz5ZULLj2RGqLYaKOYGsgyrViQ0tePOVlN1tDCCXXtFqXKg==
   dependencies:
-    minimist "^1.2.5"
+    minimist "^1.2.8"
     neo-async "^2.6.2"
     source-map "^0.6.1"
     wordwrap "^1.0.0"
@@ -723,7 +723,7 @@ is-binary-path@~2.1.0:
   dependencies:
     binary-extensions "^2.0.0"
 
-is-core-module@^2.16.1:
+is-core-module@^2.17.0:
   version "2.17.0"
   resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.17.0.tgz#75c1c76236c9f7e38ddbfff292e127dc13b21027"
   integrity sha512-J/vG0zBCbIKOQFfufSwyXdMrsohyJIUNkrnmo6WZGzoM7tr/lsbfW5b2BvisL6zsyMzK9UxV9L6c7AoFbyXHOA==
@@ -848,9 +848,9 @@ linkify-it@^4.0.1:
     uc.micro "^1.0.1"
 
 liquidjs@^10.7.0:
-  version "10.29.0"
-  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.29.0.tgz#ee061890ccf0da26be377aad4f02bd32da0140d8"
-  integrity sha512-pCVOhs6FLAR8su3ItJ07diN26t6W5dHQRnmTMy8HPyTFuv1+oSCVJIGp5pGjfQyOZfh50KswvKtMTp6p4JEIdw==
+  version "10.30.0"
+  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.30.0.tgz#c84b03cf85a5d3fc76a5c7a99039d166e8970d9e"
+  integrity sha512-Fw4wA+8CZsJkaeLEIlPE3AoponfjEZhj7FQvYNcAEcg7jNRik7mEMoaco382FBdrYlykVf6w4vClPNctz2OYjg==
   dependencies:
     commander "^10.0.0"
 
@@ -932,7 +932,7 @@ minimatch@^5.0.1:
   dependencies:
     brace-expansion "^2.0.1"
 
-minimist@^1.2.5, minimist@^1.2.6, minimist@^1.2.8:
+minimist@^1.2.6, minimist@^1.2.8:
   version "1.2.8"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
   integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
@@ -1259,12 +1259,12 @@ recursive-copy@^2.0.14:
     slash "^1.0.0"
 
 resolve@^1.15.1:
-  version "1.22.12"
-  resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.22.12.tgz#f5b2a680897c69c238a13cd16b15671f8b73549f"
-  integrity sha512-TyeJ1zif53BPfHootBGwPRYT1RUt6oGWsaQr8UyZW/eAm9bKoijtvruSDEmZHm92CwS9nj7/fWttqPCgzep8CA==
+  version "1.22.13"
+  resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.22.13.tgz#d542f97758d768f36091251a6b07540b4343f7b5"
+  integrity sha512-Dj/cW9zBV2aRj6XzCxuGIs3ESZKv02jixne3q6jFZYZ3/Tg09gHHviSMDL4kObh9pqSahdRHEnDoaP2gn8YLhA==
   dependencies:
     es-errors "^1.3.0"
-    is-core-module "^2.16.1"
+    is-core-module "^2.17.0"
     path-parse "^1.0.7"
     supports-preserve-symlinks-flag "^1.0.0"
 
